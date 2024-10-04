@@ -15,3 +15,16 @@ These guidlines are a doc on how I write my commits inspired by this [Article.](
 - TEST
 - REFACTOR
 - TODO
+
+
+
+
+<!--- 
+TODO: 
+
+- Add example of new commit message messaage 
+- IDEA: adverbs/adjectives for types like
+        BUG>>> BUG REALLY FIXED
+        
+
+>
